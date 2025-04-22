@@ -1,6 +1,0 @@
-C:\Users\Andrew\Downloads\Erenshor-FriendList\bin\Release\Erenshor-FriendList.dll
-C:\Users\Andrew\Downloads\Erenshor-FriendList\bin\Release\Erenshor-FriendList.pdb
-C:\Users\Andrew\Downloads\Erenshor-FriendList\obj\Release\Erenshor-FriendList.csproj.AssemblyReference.cache
-C:\Users\Andrew\Downloads\Erenshor-FriendList\obj\Release\Erenshor-FriendList.csproj.CoreCompileInputs.cache
-C:\Users\Andrew\Downloads\Erenshor-FriendList\obj\Release\Erenshor-FriendList.dll
-C:\Users\Andrew\Downloads\Erenshor-FriendList\obj\Release\Erenshor-FriendList.pdb
